@@ -25,6 +25,9 @@ https://youtu.be/f5V6WtBSjVU - добавление лицензии
 ## Интеграция VSC
 * Edit > Preferences... > External Tools > External Script Editor > Visual Studio Code
 
+## Создаём новую сцену
+* File > New Scene
+
 ## Игра
 https://www.kenney.nl/assets/platformer-pack-redux - пак спрайтов
 
