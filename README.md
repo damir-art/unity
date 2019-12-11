@@ -27,6 +27,7 @@ https://youtu.be/f5V6WtBSjVU - добавление лицензии
 
 ## Создаём новую сцену
 * File > New Scene
+* После создания сцены, её нужно сохранить File > Save Scenes
 
 ## Игра
 https://www.kenney.nl/assets/platformer-pack-redux - пак спрайтов
