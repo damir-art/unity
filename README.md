@@ -22,6 +22,9 @@ https://youtu.be/f5V6WtBSjVU - добавление лицензии
 * По середине "Сцена"
 * "Инспектор" появится при нажатии по объекту сцены
 
+## Интеграция VSC
+* Edit > Preferences... > External Tools > External Script Editor > Visual Studio Code
+
 ## Игра
 https://www.kenney.nl/assets/platformer-pack-redux - пак спрайтов
 
