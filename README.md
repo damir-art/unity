@@ -2,8 +2,8 @@
 Руководство по Unity
 
 ## Установка
-https://youtu.be/RRTanQmJQnw
-https://youtu.be/f5V6WtBSjVU - лицензия
+https://youtu.be/RRTanQmJQnw - установка
+https://youtu.be/f5V6WtBSjVU - добавление лицензии
 
 * Сайт https://unity.com/ru
 * Начать > Individual > Personal > Get started > Start Here > Agree
