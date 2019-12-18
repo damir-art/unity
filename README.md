@@ -24,6 +24,7 @@ https://youtu.be/f5V6WtBSjVU - добавление лицензии
 
 ## Интеграция VSC
 * Edit > Preferences... > External Tools > External Script Editor > Visual Studio Code
+* Поставить галочку "Editor Attaching"
 
 ## Создаём новую сцену
 * File > New Scene
