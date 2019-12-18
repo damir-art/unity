@@ -17,9 +17,9 @@
 
 Схема папки `Assets`:
 
-    Prefabs
-    Scenes
-    Scripts
+    Prefabs\
+    Scenes\
+    Scripts\
 
 # Интерфейс 3D
 * Осмотреться - зажать правую кнопку мыши, переместить мышь.
