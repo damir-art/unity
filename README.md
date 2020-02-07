@@ -1,5 +1,6 @@
 # Unity
 Руководство по Unity
+* Качаем https://store.unity.com/#plans-individual
 
 ## Установка
 https://youtu.be/RRTanQmJQnw - установка<br />
@@ -10,17 +11,27 @@ https://youtu.be/f5V6WtBSjVU - добавление лицензии
 * Дожидаемся загрузки установщика Unity
 * Запускаем установщик > Да > Принимаю > Путь установки
 * Запустить > Готово > Разрешить доступ
+* Регистрируемся на сайте Unity
 
-* регистрируемся на сайте Unity
+Итого:
+* Ставим Unity Hub
+* Ставим версию движка Unity
+* Создаём проект
 
-## Project
+## Установка движка (2017)
+* Выбираем версию движка (2017) > Next
+* MonoDevelop
+* Documentation
+* Standart Assets
+* Example Project
+* WebGL Build Support
+
+## Создание проекта
+Проект это одна игра.
 * New > Выбираем версию Unity (которая находится во вкладке Installs)
 * 2D > Имя > Путь
-
-## Интерфейс Unity
-* window > layouts > default - приводим интерфейс к исходному значению
-* По середине "Сцена"
-* "Инспектор" появится при нажатии по объекту сцены
+* Если программа уже открыта: `File > New Project...`
+* После создания проекта, стразу жмём `Ctrl + S` чтобы сохранить сцену.
 
 ## Интеграция VSC
 * Edit > Preferences... > External Tools > External Script Editor > Visual Studio Code
@@ -30,8 +41,12 @@ https://youtu.be/f5V6WtBSjVU - добавление лицензии
 * File > New Scene
 * После создания сцены, её нужно сохранить File > Save Scenes
 
-## Игра
+## Standart Assets
+Качаем стандартные набор готовых объектов `Standart Assets`.
+
+## Паки
 https://www.kenney.nl/assets/platformer-pack-redux - пак спрайтов
+https://assetstore.unity.com/
 
 ## Словарь
 * Спрайт - графика в 2d игре
